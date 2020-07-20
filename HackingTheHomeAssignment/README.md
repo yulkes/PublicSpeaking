@@ -5,7 +5,7 @@
 
 Home assignments are here to stay as they offer less biased views and are more focused on the quality of your work.
 
-Unfortunately, if you’re a Junior Developer, the quality of work is usually what stands out. Your projects won’t look like a professional reviewer is used to: They may be messy, half-working, or lacking documentation and instructions.
+Unfortunately, if you’re a Junior Developer, the quality of work is usually what stands out. Your projects won’t look like what a professional reviewer is used to: They may be messy, half-working, or lacking documentation and instructions.
 
 Workshop participants will learn an organized system for working on a small project while presenting best-practices. That means passing more interview steps, more options to choose from, and more bargaining power for your next job.
 
