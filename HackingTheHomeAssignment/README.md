@@ -15,5 +15,8 @@ Workshop participants will learn an organized system for working on a small proj
 * **How proficient should you be?** If you can write and understand what’s going on in a small web-server tutorial (i.e. Flask for Python, builtin HTTP for Node, Spring Bootstrap for Java).
 * **Install Docker and make sure it’s running**.
 
+### Accompanying Content:
+* A sample home assignment: [Yulco's IFS](SampleHomeAssignment.md)
+
 ### You could've enjoyed this Hands-On workshop at:
 * [CodeLand 2020](https://codelandconf.com/workshops/eyal-yavor/)
