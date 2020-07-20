@@ -13,5 +13,5 @@ At the very least, you'll know you definitely don't have the worst working condi
 
 ## You could've watched this session live in:
 * [PyGotham 2018](https://2018.pygotham.org/talks/great-engineering-in-the-worst-work-environment/), [Video](https://youtu.be/VB9YIz2KX-Y)
-* Tamedia:TX 2017
+* [Tamedia:TX 2017](https://tamediatx2017.sched.com/event/Azm6/software-development-in-the-israeli-army)
 
