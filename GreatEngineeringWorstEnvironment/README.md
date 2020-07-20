@@ -12,6 +12,6 @@ You'll leave the talk with some insights on turning limitations into advantages,
 At the very least, you'll know you definitely don't have the worst working conditions in tech.
 
 ## You could've watched this session live in:
-* PyGotham 2018
+* [PyGotham 2018](https://2018.pygotham.org/talks/great-engineering-in-the-worst-work-environment/), [Video](https://youtu.be/VB9YIz2KX-Y)
 * Tamedia:TX 2017
 
