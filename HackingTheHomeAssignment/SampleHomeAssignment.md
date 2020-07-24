@@ -11,6 +11,7 @@ Your goal is to write IFS - Insecure File System. It’s a REST API for performi
 * The service will accept requests on port 5000.
 * The following endpoints should be exposed:
     * `GET /fs/<path>` : Return a JSON response structured as:
+    
         ```
         {"success": true, 
          "fs": {"filename": "<path from request>", 
