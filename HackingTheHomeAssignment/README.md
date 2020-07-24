@@ -17,6 +17,8 @@ Workshop participants will learn an organized system for working on a small proj
 
 ### Accompanying Content:
 * A sample home assignment: [Yulco's IFS](SampleHomeAssignment.md)
+* A sample basic solution for this home assignment: [https://github.com/yulkes/workshop-sample-solution-bad](https://github.com/yulkes/workshop-sample-solution-bad)
+* A sample complete solution for this home assignment: [https://github.com/yulkes/workshop-sample-solution](https://github.com/yulkes/workshop-sample-solution)
 
 ### You could've enjoyed this Hands-On workshop at:
 * [CodeLand 2020](https://codelandconf.com/workshops/eyal-yavor/)
