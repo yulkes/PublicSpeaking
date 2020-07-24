@@ -14,9 +14,10 @@ Your goal is to write IFS - Insecure File System. It’s a REST API for performi
         ```
         {"success": true, 
          "fs": {"filename": "<path from request>", 
-                "dirs": ["dir1", ...], 
-                "files": ["a", ...]}}
+                "dirs": ["dir1", "dir2", "dir3"], 
+                "files": ["a", "b", "c"]}}
         ```
+        ![Directory structure listing](static/SampleDirStructure.png "Sample Directory structure")
     * `DELETE /fs/<path>` : Delete the file or directory at `<path>`.
     * `PUT /fs/<path>` with body `{name: "<new path>"}` : Move the file at `<path>` to `<new path>`.
 * Any errors should return the following response with an appropriate error message:
