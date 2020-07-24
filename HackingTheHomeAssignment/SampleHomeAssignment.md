@@ -17,7 +17,6 @@ Your goal is to write IFS - Insecure File System. It’s a REST API for performi
                 "dirs": ["dir1", "dir2", "dir3"], 
                 "files": ["a", "b", "c"]}}
         ```
-        ![Directory structure listing](static/SampleDirStructure.png "Sample Directory structure")
     * `DELETE /fs/<path>` : Delete the file or directory at `<path>`.
     * `PUT /fs/<path>` with body `{name: "<new path>"}` : Move the file at `<path>` to `<new path>`.
 * Any errors should return the following response with an appropriate error message:
@@ -28,3 +27,26 @@ Your goal is to write IFS - Insecure File System. It’s a REST API for performi
     * All paths given would be relative to base root path. For example: Given root path for the system `/tmp/ifs/`, a request for `GET /fs/a/b/c` should return the listing for `/tmp/ifs/a/b/c` on your machine.
     * The given root path should not be part of the requests or responses of the system, and should not be exposed externally.
     * If the root path is invalid, the service should not run.
+
+
+### An Example of request/responses:
+Assuming `root_path` is configured as the root of the service:
+
+![Directory structure listing](static/SampleDirStructure.png "Sample Directory structure")
+
+`GET /fs/` :
+  ```
+  {"success": true, 
+   "fs": {"filename": ".", 
+          "dirs": ["dir1", "dir2", "dir3"], 
+          "files": ["a", "b", "c"]}}
+  ```
+
+
+`GET /fs/dir1` :
+  ```
+  {"success": true, 
+   "fs": {"filename": "dir1", 
+          "dirs": [], 
+          "files": ["f1", "f2", "f3"]}}
+  ```
