@@ -7,7 +7,7 @@ As one last shot, we tried meeting our users where they were - in an up-and-comi
 
 This talk goes over everything we learned throughout the process, the benefits and complicates of moving your user interaction from a native app to a text-oriented experience.
 
-* [Slides](HowWeDitchedOurAppsForARobotSlides)
+* [Slides](HowWeDitchedOurAppsForARobotSlides.pdf)
 
 ## You could've watched this session live in:
 * [Reversim Summit 2016](https://www.reversim.com/2017/08/summit-2016-how-we-ditched-our-apps-for.html), [Video](https://www.youtube.com/watch?v=hqfJ48KVi-0)
