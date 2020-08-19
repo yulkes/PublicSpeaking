@@ -5,7 +5,7 @@ My partners and I cofounded Meekan, a calendar scheduling platform, raised fundi
 A year later we had 3 apps, lots of code, not much money and and very few users.  
 As one last shot, we tried meeting our users where they were - in an up-and-coming work tool called Slack. Only problem - The only integration we could write there was a chatbot.
 
-This talk goes over everything we learned throughout the process, the benefits and complicates of moving your user interaction from a native app to a text-oriented experience.
+This talk goes over everything we learned throughout the process, the benefits and mind-shift of moving your UX from a native app to a Conversational Experience.
 
 * [Slides](HowWeDitchedOurAppsForARobotSlides.pdf)
 
